@@ -4,7 +4,8 @@
 
 Spinner verbs are a small thing, but they're on screen every time Claude works. I built this to have a little fun with them, like a Halloween theme while I wait on prompts, and to turn down the visual noise with a quiet zen mode when I want to focus.
 
-<video src="assets/spooky-demo.mp4" aria-label="Figure 1: Spooky Preset Demo showing the terminal command execution" controls loop muted playsinline width="100%"></video>
+https://github.com/user-attachments/assets/a128526c-c987-41dc-a489-addc08fcaa8d
+
 *Figure 1: Spooky Preset Demo (video)*
 
 ## Before you begin
